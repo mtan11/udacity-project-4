@@ -1,1 +1,11 @@
-<paste log output from Kubernetes-mediated prediction, here>
+➜  udacity-project-4 git:(main) ✗ ./run_kubernetes.sh                
+pod/udacity-project4 created
+NAME               READY   STATUS              RESTARTS   AGE
+udacity-project4   0/1     ContainerCreating   0          0s
+➜  udacity-project-4 git:(main) ✗ ./make_prediction.sh
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
