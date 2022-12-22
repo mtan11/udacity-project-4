@@ -1,5 +1,6 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/mtan11/udacity-project-4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/mtan11/udacity-project-4/tree/main)
 # Project Overview
-In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. This project tests your ability to operationalize a Python flask app—in a provided file, app.py—that serves out predictions (inference) about housing prices through API calls.
+In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. This project tests your ability to operationalize a Python flask app—in a provided file, app.py—that serves out predictions (inference) about housing prices through API calls. The `app.py` file —that serves out predictions (inference) about housing prices through API calls. This project could be extended to any pre-trained machine learning model, such as those for image recognition and data labeling. It also help you im
 
 ### Project Tasks
 
